@@ -1,0 +1,13 @@
+.scannerwork
+.sonar
+.sonarcloud
+.sonarlint
+.sonarsource
+.sonarsource-*
+.properties
+.pytest_cache
+.pytest_cache/*
+dist/
+pygame_updater.egg-info/
+pyproject.toml
+
